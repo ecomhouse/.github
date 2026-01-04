@@ -30,7 +30,7 @@ If you find a bug or have a feature request, please open an issue in the specifi
 
 ## Questions?
 
-If you have any questions regarding the contribution process, feel free to reach out to us at [contact@ecom.house](mailto:contact@ecom.house).
+If you have any questions regarding the contribution process, feel free to reach out to us at [opensource@ecom.house](mailto:opensource@ecom.house).
 
 ---
 *By contributing, you agree that your contributions will be licensed under the project's existing license.*
